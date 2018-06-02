@@ -48,6 +48,13 @@
   </Properties>
   <ScalaCodeStyleSettings>
     <option name="classCountToUseImportOnDemand" value="99" />
+    <option name="importLayout">
+      <array>
+        <option value="java" />
+        <option value="all other imports" />
+        <option value="scala" />
+      </array>
+    </option>
     <option name="FINALLY_BRACE_FORCE" value="3" />
     <option name="TRY_BRACE_FORCE" value="3" />
     <option name="ALIGN_IF_ELSE" value="true" />
