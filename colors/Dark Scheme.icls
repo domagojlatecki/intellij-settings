@@ -4,10 +4,11 @@
     <property name="created">2018-03-31T19:33:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-04-03T21:24:28</property>
+    <property name="modified">2018-08-02T14:45:03</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Noto Sans Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
@@ -299,6 +300,7 @@
         <option name="FOREGROUND" value="d6d6d6" />
       </value>
     </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="d6d6d6" />
