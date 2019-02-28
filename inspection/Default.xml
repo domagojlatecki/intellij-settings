@@ -63,6 +63,14 @@
   </inspection_tool>
   <inspection_tool class="ConfusingFloatingPointLiteral" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConfusingOctalEscape" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ConstantConditions" enabled="true" level="WARNING" enabled_by_default="true">
+    <scope name="Tests" level="Suggestion" enabled="true">
+      <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
+      <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
+    </scope>
+    <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
+    <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
+  </inspection_tool>
   <inspection_tool class="ConstantJUnitAssertArgument" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ControlFlowStatementWithoutBraces" enabled="true" level="Style Warning" enabled_by_default="true" />
   <inspection_tool class="DeclareCollectionAsInterface" enabled="true" level="WARNING" enabled_by_default="true">
