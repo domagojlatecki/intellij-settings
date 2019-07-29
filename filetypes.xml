@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="BitUnpackerTests.scala" type="PLAIN_TEXT" />
       <mapping pattern="t5" type="PLAIN_TEXT" />
       <mapping pattern="t4" type="PLAIN_TEXT" />
@@ -11,6 +10,7 @@
       <mapping pattern="t2" type="PLAIN_TEXT" />
       <mapping pattern="t1" type="PLAIN_TEXT" />
       <mapping pattern="t6" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="spvchain" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="tfvars" type="PLAIN_TEXT" />
