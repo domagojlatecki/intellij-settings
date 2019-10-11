@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'interact-control-service'" />
-    <option name="defaultScopeName" value="Project 'interact-control-service'" />
+    <option name="customScope" value="Module 'Player Runtime'" />
+    <option name="defaultScopeName" value="Module 'Player Runtime'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="Project 'interact-control-service'" />
+    <option name="SEARCH_SCOPE" value="Module 'Player Runtime'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
