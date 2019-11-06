@@ -34,8 +34,6 @@
   <inspection_tool class="AssignmentUsedAsCondition" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AwaitNotInLoop" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BadOddness" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="BeforeClassOrAfterClassIsPublicStaticVoidNoArg" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="BeforeOrAfterIsPublicVoidNoArg" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BigDecimalEquals" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BigDecimalLegacyMethod" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BooleanExpressionMayBeConditional" enabled="true" level="Suggestion" enabled_by_default="true" />
@@ -137,7 +135,6 @@
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="Style Warning" enabled_by_default="true" />
   <inspection_tool class="IncrementDecrementUsedAsExpression" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="InfiniteLoopStatement" enabled="true" level="Possible Error" enabled_by_default="true" />
-  <inspection_tool class="InnerClassMayBeStatic" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InstanceofCatchParameter" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InstanceofThis" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InstantiationOfUtilityClass" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -267,9 +264,9 @@
   </inspection_tool>
   <inspection_tool class="MultipleTopLevelClassesInFile" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MultipleTypedDeclaration" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="MultipleVariablesInDeclaration" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedAssignment" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedSwitchStatement" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="NoTailRecursionAnnotation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonFinalFieldInEnum" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonFinalFieldOfException" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonFinalUtilityClass" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -355,7 +352,6 @@
   <inspection_tool class="StaticMethodOnlyUsedInOneClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreTestClasses" value="true" />
   </inspection_tool>
-  <inspection_tool class="StaticSuite" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringEqualsEmptyString" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SuppressionAnnotation" enabled="true" level="Suggestion" enabled_by_default="true" />
   <inspection_tool class="SuspiciousLiteralUnderscore" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -367,12 +363,12 @@
     <option name="ignoreSupers" value="true" />
   </inspection_tool>
   <inspection_tool class="TestMethodInProductCode" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="TestMethodIsPublicVoidNoArg" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="TestMethodWithoutAssertion" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="TestMethodWithoutAssertion" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="assertionMethods" value="org.junit.Assert,assert.*|fail.*,junit.framework.Assert,assert.*|fail.*,org.junit.jupiter.api.Assertions,assert.*|fail.*,org.assertj.core.api.Assertions,assertThat,org.assertj.core.api.WithAssertions,assertThat,com.google.common.truth.Truth,assert.*,com.google.common.truth.Truth8,assert.*,org.mockito.Mockito,verify.*,org.mockito.InOrder,verify,org.junit.rules.ExpectedException,expect.*,org.hamcrest.MatcherAssert,assertThat,mockit.Verifications,Verifications,reactor.test.StepVerifier,verify*" />
+  </inspection_tool>
   <inspection_tool class="ThisEscapedInConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThreadDumpStack" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThreadLocalNotStaticFinal" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ThreadRun" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThreadStartInConstruction" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThreadStopSuspendResume" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThreadWithDefaultRunMethod" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -390,7 +386,6 @@
   </inspection_tool>
   <inspection_tool class="TypeParameterExtendsFinalClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnaryPlus" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="UnconstructableTestCase" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnknownGuard" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessarilyQualifiedStaticUsage" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreStaticFieldAccesses" value="true" />
