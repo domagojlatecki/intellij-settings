@@ -5,8 +5,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="BitUnpackerTests.scala" type="PLAIN_TEXT" />
-      <mapping pattern="t5" type="PLAIN_TEXT" />
       <mapping pattern="t6" type="PLAIN_TEXT" />
+      <mapping pattern="t5" type="PLAIN_TEXT" />
       <mapping pattern="t4" type="PLAIN_TEXT" />
       <mapping pattern="t3" type="PLAIN_TEXT" />
       <mapping pattern="t2" type="PLAIN_TEXT" />
