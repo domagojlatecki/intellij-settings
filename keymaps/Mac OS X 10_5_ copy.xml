@@ -125,6 +125,7 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RestoreDefaultLayout" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.EditConfiguration">
     <keyboard-shortcut first-keystroke="f4" />
