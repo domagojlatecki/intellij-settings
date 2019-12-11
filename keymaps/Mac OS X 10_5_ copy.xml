@@ -108,6 +108,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NewScratchFile" />
+  <action id="NextWindow">
+    <keyboard-shortcut first-keystroke="meta #100007e" />
+  </action>
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
