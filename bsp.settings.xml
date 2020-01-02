@@ -1,5 +1,6 @@
 <application>
   <component name="BspSystemSettings">
-    <option name="bloopPath" value="/usr/local/Cellar/bloop/1.4.0-RC1/bin" />
+    <option name="bloopPath" value="/usr/local/Cellar/bloop/1.4.0-RC1/bin/bloop" />
+    <option name="traceBsp" value="true" />
   </component>
 </application>
