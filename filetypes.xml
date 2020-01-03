@@ -8,6 +8,7 @@
       <mapping pattern="t3" type="PLAIN_TEXT" />
       <mapping pattern="t2" type="PLAIN_TEXT" />
       <mapping pattern="t1" type="PLAIN_TEXT" />
+      <mapping pattern="pcmSampleDecoders.scala" type="PLAIN_TEXT" />
       <mapping pattern="BitUnpackerTests.scala" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="spvchain" type="PLAIN_TEXT" />
