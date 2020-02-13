@@ -3,5 +3,6 @@
     <option name="showTypeHints" value="false" />
     <option name="showFunctionReturnType" value="false" />
     <option name="showMethodChainInlayHints" value="false" />
+    <option name="alignMethodChainInlayHints" value="false" />
   </component>
 </application>
