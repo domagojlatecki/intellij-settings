@@ -24,7 +24,7 @@
       </set>
     </option>
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="ts.enum.hints" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
     <settingsMapElement>
       <Groovy.groovy.parameters.hints>
         <Settings>
