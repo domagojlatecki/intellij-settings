@@ -17,13 +17,14 @@
         <option value="Groovy" />
         <option value="JAVA" />
         <option value="JavaScript" />
+        <option value="Rust" />
         <option value="SQL" />
         <option value="Scala" />
         <option value="TypeScript" />
         <option value="kotlin" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="Scala.ScalaGeneralTypeHintsSettingsModel" />
+    <option name="lastViewedProviderKeyId" value="rust.type.hints" />
     <settingsMapElement>
       <Groovy.groovy.parameters.hints>
         <Settings>
