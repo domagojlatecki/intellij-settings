@@ -24,6 +24,7 @@
         <option value="kotlin" />
       </set>
     </option>
+    <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="Scala.ScalaGeneralTypeHintsSettingsModel" />
     <settingsMapElement>
       <Groovy.groovy.parameters.hints>
