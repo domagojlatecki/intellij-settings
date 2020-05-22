@@ -16,7 +16,6 @@
       <mapping ext="spvchain" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="tfvars" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
