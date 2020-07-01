@@ -158,4 +158,5 @@
   </action>
   <action id="antlr.InlineRule" />
   <action id="openAssertEqualsDiff" />
+  <action id="texify.ShowTikzPreview" />
 </keymap>
