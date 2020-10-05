@@ -31,8 +31,10 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="Groovy.groovy.parameters.hints" />
+        <option value="JAVA.JavaLens" />
         <option value="JAVA.annotation.hints" />
         <option value="JAVA.chain.hints" />
+        <option value="JAVA.java.implicit.types" />
         <option value="JavaScript.js.chain.hints" />
         <option value="JavaScript.js.type.hints" />
         <option value="TypeScript.ts.chain.hints" />
@@ -53,7 +55,7 @@
       </set>
     </option>
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="JavaLens" />
     <settingsMapElement>
       <Groovy.groovy.parameters.hints>
         <Settings>
@@ -61,11 +63,6 @@
           <option name="showTypeParameterList" value="false" />
         </Settings>
       </Groovy.groovy.parameters.hints>
-      <JAVA.annotation.hints>
-        <Settings>
-          <option name="showExternal" value="false" />
-        </Settings>
-      </JAVA.annotation.hints>
       <JavaScript.js.type.hints>
         <Settings>
           <option name="showForInferredParameters" value="false" />
@@ -76,6 +73,16 @@
           <option name="showForInferredParameters" value="false" />
         </Settings>
       </TypeScript.ts.type.hints>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showExternal" value="false" />
+        </Settings>
+      </JAVA.annotation.hints>
+      <JAVA.JavaLens>
+        <JavaLensSettings>
+          <option name="showRelatedProblems" value="false" />
+        </JavaLensSettings>
+      </JAVA.JavaLens>
     </settingsMapElement>
   </component>
   <component name="InspectionProfileManager">
