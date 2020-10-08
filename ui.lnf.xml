@@ -3,6 +3,7 @@
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
     <option name="SHOW_CLOSE_BUTTON" value="false" />
   </component>
