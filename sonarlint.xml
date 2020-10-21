@@ -1,6 +1,7 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <rules>
+      <Rule active="false" key="java:S1128" />
       <Rule active="false" key="squid:CommentedOutCodeLine" />
       <Rule active="false" key="squid:S1854" />
     </rules>
