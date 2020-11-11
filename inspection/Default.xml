@@ -302,8 +302,8 @@
   <inspection_tool class="OctalAndDecimalIntegersMixed" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="OnDemandImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="OptionalContainsCollection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="OptionalUsedAsFieldOrParameterType" enabled="true" level="WARNING" enabled_by_default="true">
-    <scope name="Tests" level="WEAK WARNING" enabled="true" />
+  <inspection_tool class="OptionalUsedAsFieldOrParameterType" enabled="false" level="WARNING" enabled_by_default="false">
+    <scope name="Tests" level="WEAK WARNING" enabled="false" />
   </inspection_tool>
   <inspection_tool class="OverlyStrongTypeCast" enabled="true" level="WARNING" enabled_by_default="true">
     <scope name="Tests" level="WEAK WARNING" enabled="true">
