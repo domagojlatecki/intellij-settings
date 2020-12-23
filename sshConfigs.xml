@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="52.59.167.248" id="d4da0f72-4603-431f-9f25-b85f46e45a50" keyPath="$USER_HOME$/Projects/vault/vault-db.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</application>
