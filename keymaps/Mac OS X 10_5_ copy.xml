@@ -45,6 +45,10 @@
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta 8" />
+    <keyboard-shortcut first-keystroke="shift meta left_parenthesis" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="shift ctrl w" />
