@@ -1,5 +1,21 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="ChangesView.Diff" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt minus" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
