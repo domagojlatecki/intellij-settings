@@ -112,7 +112,7 @@
   <action id="Macro.Duplicate Line Up">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
-  <action id="Macro.OnSave">
+  <action id="Macro.OnSaveNew">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MoveLineDown">
