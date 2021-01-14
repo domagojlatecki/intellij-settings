@@ -1,4 +1,9 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta braceleft" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta minus" />
@@ -74,6 +79,11 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta braceright" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
