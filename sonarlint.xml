@@ -1,9 +1,10 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
     <rules>
-      <Rule active="false" key="java:S1128" />
       <Rule active="false" key="squid:CommentedOutCodeLine" />
       <Rule active="false" key="squid:S1854" />
+      <Rule active="false" key="java:S1128" />
     </rules>
   </component>
 </application>
