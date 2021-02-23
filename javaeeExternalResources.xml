@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://soap.sforce.com/2006/04/metadata" location="$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
     <resource url="https://checkstyle.org/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.1/extResources/385f0dd3_configuration_1_3.dtd" />
+    <resource url="https://checkstyle.org/dtds/import_control_1_4.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/d9bc01f_import_control_1_4.dtd" />
     <resource url="urn:metadata.tooling.soap.sforce.com" location="$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/metadata.xsd" />
   </component>
 </application>
