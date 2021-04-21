@@ -20,6 +20,8 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Menlo" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
@@ -37,6 +39,7 @@
         <option value="JAVA.java.implicit.types" />
         <option value="JavaScript.js.chain.hints" />
         <option value="JavaScript.js.type.hints" />
+        <option value="Scala.microservices.url.path.inlay.hints" />
         <option value="TypeScript.ts.chain.hints" />
         <option value="TypeScript.ts.enum.hints" />
         <option value="TypeScript.ts.type.hints" />
@@ -55,7 +58,7 @@
       </set>
     </option>
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value="JavaLens" />
+    <option name="lastViewedProviderKeyId" value="Scala.ScalaGeneralTypeHintsSettingsModel" />
     <settingsMapElement>
       <Groovy.groovy.parameters.hints>
         <Settings>
