@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Projects/AMPnet" />
+        <option value="$USER_HOME$/Projects" />
       </list>
     </option>
   </component>
