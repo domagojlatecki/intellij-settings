@@ -9,9 +9,9 @@
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="t2" type="PLAIN_TEXT" />
       <mapping pattern="BitUnpackerTests.scala" type="PLAIN_TEXT" />
-      <mapping pattern="t5" type="PLAIN_TEXT" />
-      <mapping pattern="t3" type="PLAIN_TEXT" />
       <mapping pattern="t6" type="PLAIN_TEXT" />
+      <mapping pattern="t3" type="PLAIN_TEXT" />
+      <mapping pattern="t5" type="PLAIN_TEXT" />
       <mapping pattern="t4" type="PLAIN_TEXT" />
       <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
