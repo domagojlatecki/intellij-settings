@@ -121,9 +121,7 @@
     <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
-  <action id="NextWindow">
-    <keyboard-shortcut first-keystroke="meta #100007e" />
-  </action>
+  <action id="NextWindow" />
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
