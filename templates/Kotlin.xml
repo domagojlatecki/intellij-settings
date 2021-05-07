@@ -115,4 +115,8 @@
   <template name="psvmo" value="@JvmStatic&#10;fun main(args: Array&lt;String&gt;) {&#10;  $END$&#10;}" description="main() function" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="object" value="object : $SUPERTYPE$ {&#10;$END$&#10;}" description="Anonymous class" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="SUPERTYPE" expression="anonymousSuper()" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
