@@ -117,14 +117,12 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="NewScratchFile" />
-  <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta alt back_quote" />
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
+  <action id="NextProjectWindow" />
   <action id="NextWindow" />
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="PreviousProjectWindow" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
