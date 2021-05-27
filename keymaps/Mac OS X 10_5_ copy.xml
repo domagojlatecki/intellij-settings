@@ -118,7 +118,7 @@
   </action>
   <action id="NewScratchFile" />
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta tilde" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="NextWindow" />
   <action id="OpenModuleSettings">
