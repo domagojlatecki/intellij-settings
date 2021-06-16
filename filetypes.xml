@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="LOCK" type="AUTO_DETECTED" />
+      <mapping pattern="example" type="AUTO_DETECTED" />
       <mapping pattern="MANIFEST-000011" type="AUTO_DETECTED" />
       <mapping pattern="database" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
