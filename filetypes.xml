@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="database" type="AUTO_DETECTED" />
       <mapping pattern="geth-bootnodes" type="AUTO_DETECTED" />
+      <mapping pattern="ipfs-version" type="AUTO_DETECTED" />
       <mapping ext="abi" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
