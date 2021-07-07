@@ -23,6 +23,7 @@
       <mapping pattern="t4" type="PLAIN_TEXT" />
       <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="pcmSampleDecoders.scala" type="PLAIN_TEXT" />
       <mapping ext="tfvars" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
@@ -33,6 +34,11 @@
       <mapping ext="hist" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="raml" type="YAML" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.editor.json" type="tsconfig" />
       <removed_mapping ext="abi" approved="true" type="JavaScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
