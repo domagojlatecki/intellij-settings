@@ -2,29 +2,29 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="LOCK" type="AUTO_DETECTED" />
-      <mapping pattern="example" type="AUTO_DETECTED" />
       <mapping pattern="MANIFEST-000011" type="AUTO_DETECTED" />
-      <mapping pattern="database" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
-      <mapping pattern="geth-bootnodes" type="AUTO_DETECTED" />
       <mapping pattern="ipfs-version" type="AUTO_DETECTED" />
+      <mapping pattern="example" type="AUTO_DETECTED" />
+      <mapping pattern="database" type="AUTO_DETECTED" />
+      <mapping pattern="geth-bootnodes" type="AUTO_DETECTED" />
       <mapping pattern="datastore_spec" type="AUTO_DETECTED" />
       <mapping ext="abi" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="t1" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
-      <mapping pattern="t2" type="PLAIN_TEXT" />
-      <mapping pattern="BitUnpackerTests.scala" type="PLAIN_TEXT" />
-      <mapping pattern="t6" type="PLAIN_TEXT" />
-      <mapping pattern="t3" type="PLAIN_TEXT" />
-      <mapping pattern="t5" type="PLAIN_TEXT" />
-      <mapping pattern="t4" type="PLAIN_TEXT" />
       <mapping pattern="dummy" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="t1" type="PLAIN_TEXT" />
+      <mapping pattern="t2" type="PLAIN_TEXT" />
+      <mapping pattern="t3" type="PLAIN_TEXT" />
+      <mapping pattern="t4" type="PLAIN_TEXT" />
+      <mapping pattern="t5" type="PLAIN_TEXT" />
+      <mapping pattern="t6" type="PLAIN_TEXT" />
+      <mapping pattern="BitUnpackerTests.scala" type="PLAIN_TEXT" />
       <mapping pattern="pcmSampleDecoders.scala" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="tfvars" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
@@ -34,11 +34,6 @@
       <mapping ext="hist" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="raml" type="YAML" />
-      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
-      <mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
-      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <mapping pattern="tsconfig.editor.json" type="tsconfig" />
       <removed_mapping ext="abi" approved="true" type="JavaScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
