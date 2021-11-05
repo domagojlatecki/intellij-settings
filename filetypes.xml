@@ -3,12 +3,16 @@
     <extensionMap>
       <mapping pattern="LOCK" type="AUTO_DETECTED" />
       <mapping pattern="MANIFEST-000011" type="AUTO_DETECTED" />
+      <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="ipfs-version" type="AUTO_DETECTED" />
       <mapping pattern="example" type="AUTO_DETECTED" />
       <mapping pattern="database" type="AUTO_DETECTED" />
       <mapping pattern="geth-bootnodes" type="AUTO_DETECTED" />
       <mapping pattern="datastore_spec" type="AUTO_DETECTED" />
+      <mapping pattern="start" type="AUTO_DETECTED" />
+      <mapping pattern="clean" type="AUTO_DETECTED" />
+      <mapping pattern="build" type="AUTO_DETECTED" />
       <mapping ext="abi" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
