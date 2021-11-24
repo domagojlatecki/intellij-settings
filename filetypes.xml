@@ -13,7 +13,6 @@
       <mapping pattern="start" type="AUTO_DETECTED" />
       <mapping pattern="clean" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="abi" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
