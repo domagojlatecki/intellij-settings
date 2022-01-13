@@ -4,5 +4,7 @@
     <option name="showFunctionReturnType" value="false" />
     <option name="showMethodChainInlayHints" value="false" />
     <option name="alignMethodChainInlayHints" value="false" />
+    <option name="showRangeHintsForToAndUntil" value="false" />
+    <option name="showExclusiveRangeHint" value="false" />
   </component>
 </application>

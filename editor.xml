@@ -43,7 +43,6 @@
         <option value="JavaScript" />
         <option value="Rust" />
         <option value="SQL" />
-        <option value="Scala" />
         <option value="TypeScript" />
         <option value="kotlin" />
       </set>
