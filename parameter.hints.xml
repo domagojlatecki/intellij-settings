@@ -1,16 +1,18 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <option id="SHOW_PARAMETER_HINT" value="false" />
-    <option id="js.only.show.names.for.tagged" value="false" />
     <option id="java.enums" value="false" />
+    <option id="js.only.show.names.for.tagged" value="false" />
     <option id="java.new.expr" value="false" />
     <option id="js.only.show.names.for.pipes" value="false" />
     <option id="SHOW_LAMBDA_IMPLICIT_PARAMETER_RECEIVER" value="false" />
     <option id="js.param.hints.show.names.for.tagged" value="false" />
+    <option id="angular.show.names.for.pipes" value="false" />
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
     <disabledLanguages>
       <language id="TypeScript" />
       <language id="JAVA" />
+      <language id="Angular2Html" />
       <language id="Rust" />
       <language id="Scala" />
       <language id="JavaScript" />
