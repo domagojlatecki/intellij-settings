@@ -5,6 +5,7 @@
       <mapping pattern="MANIFEST-000011" type="AUTO_DETECTED" />
       <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
+      <mapping pattern="gamestate_debug" type="AUTO_DETECTED" />
       <mapping pattern="ipfs-version" type="AUTO_DETECTED" />
       <mapping pattern="example" type="AUTO_DETECTED" />
       <mapping pattern="database" type="AUTO_DETECTED" />
