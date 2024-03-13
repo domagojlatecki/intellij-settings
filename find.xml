@@ -3,11 +3,11 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.yaml</mask>
     <mask>*.groovy</mask>
-    <mask>*.scala</mask>
     <mask>*.tex</mask>
     <mask>*.kt,*.js</mask>
     <mask>*.js</mask>
@@ -22,5 +22,6 @@
     <mask>*adoc</mask>
     <mask>*java</mask>
     <mask>*kt</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
