@@ -40,8 +40,13 @@
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
   <action id="QuickImplementations" />
+  <action id="ResetIdeScaleAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="ScalaConsole.Execute">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
@@ -53,5 +58,7 @@
   <action id="Tree-selectLastExtendSelection" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
+  <action id="ZoomInIdeAction" />
+  <action id="ZoomOutIdeAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
