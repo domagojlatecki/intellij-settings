@@ -4,6 +4,11 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl braceleft" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
@@ -26,6 +31,11 @@
   <action id="EditorTextStart" />
   <action id="EditorTextStartWithSelection" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl braceright" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="KotlinShellExecute" />
   <action id="Macro.Duplicate Line Up">
