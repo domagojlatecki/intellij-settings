@@ -4,7 +4,7 @@
     <property name="created">2018-03-31T19:33:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2024-03-13T14:23:04</property>
+    <property name="modified">2024-03-13T16:36:26</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -693,6 +693,7 @@
         <option name="BACKGROUND" value="155221" />
       </value>
     </option>
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
