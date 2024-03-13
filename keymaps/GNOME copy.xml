@@ -1,6 +1,57 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
+  <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Docker.RemoteServers.StartComposeService" />
+  <action id="Docker.RemoteServers.StartContainer" />
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl end" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorTextEndWithSelection" />
+  <action id="EditorTextStart" />
+  <action id="EditorTextStartWithSelection" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GuiDesigner.Duplicate" />
+  <action id="KotlinShellExecute" />
+  <action id="Macro.Duplicate Line Up">
+    <keyboard-shortcut first-keystroke="shift ctrl home" />
+  </action>
   <action id="Macro.OnSave">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl home" />
+  </action>
+  <action id="QuickImplementations" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
+  <action id="ScalaConsole.Execute">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="SendEOF" />
+  <action id="SplitChooser.Duplicate" />
+  <action id="Table-selectFirstRow" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="Tree-selectFirst" />
+  <action id="Tree-selectLastExtendSelection" />
+  <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
