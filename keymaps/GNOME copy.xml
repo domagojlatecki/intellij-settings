@@ -30,6 +30,10 @@
   <action id="EditorTextEndWithSelection" />
   <action id="EditorTextStart" />
   <action id="EditorTextStartWithSelection" />
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl 8" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -68,6 +72,7 @@
   <action id="SplitChooser.Duplicate" />
   <action id="Table-selectFirstRow" />
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ToggleBookmark8" />
   <action id="Tree-selectFirst" />
   <action id="Tree-selectLastExtendSelection" />
   <action id="ViewSource" />
