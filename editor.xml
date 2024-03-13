@@ -34,15 +34,27 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="js.type.hints#function.returns" />
+        <option value="js.type.hints#non.paren.single.param" />
+        <option value="js.type.hints#parameters.in.parens" />
+        <option value="js.type.hints#variables.and.fields" />
+        <option value="ts.type.hints#function.returns" />
+        <option value="ts.type.hints#non.paren.single.param" />
+        <option value="ts.type.hints#parameters.in.parens" />
+        <option value="ts.type.hints#variables.and.fields" />
+      </set>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="java.implicit.types" value="false" />
-        <entry key="java.method.chains" value="true" />
-        <entry key="js.chain.hints" value="true" />
-        <entry key="js.type.hints" value="true" />
-        <entry key="qodana.yaml.inspection.descriptions" value="true" />
-        <entry key="ts.chain.hints" value="true" />
-        <entry key="ts.enum.hints" value="true" />
+        <entry key="java.method.chains" value="false" />
+        <entry key="js.chain.hints" value="false" />
+        <entry key="js.type.hints" value="false" />
+        <entry key="qodana.yaml.inspection.descriptions" value="false" />
+        <entry key="ts.chain.hints" value="false" />
+        <entry key="ts.enum.hints" value="false" />
         <entry key="ts.type.hints" value="false" />
       </map>
     </option>
@@ -61,11 +73,13 @@
         <option value="Groovy.groovy.parameters.hints" />
         <option value="Groovy.groovy.variable.type.hints" />
         <option value="Groovy.microservices.url.path.inlay.hints" />
+        <option value="Groovy.spring.boot.generate.starters.gradle" />
         <option value="JAVA.JavaLens" />
         <option value="JAVA.annotation.hints" />
         <option value="JAVA.chain.hints" />
         <option value="JAVA.java.implicit.types" />
         <option value="JAVA.microservices.url.path.inlay.hints" />
+        <option value="JAVA.spring.secured.urls.inlay.hints" />
         <option value="JavaScript.js.chain.hints" />
         <option value="JavaScript.js.type.hints" />
         <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
@@ -74,11 +88,16 @@
         <option value="TypeScript.ts.chain.hints" />
         <option value="TypeScript.ts.enum.hints" />
         <option value="TypeScript.ts.type.hints" />
+        <option value="XML.spring.boot.generate.starters.maven" />
+        <option value="XML.spring.secured.urls.inlay.hints" />
         <option value="kotlin.kotlin.call.chains.hints" />
         <option value="kotlin.kotlin.lambdas.hints" />
         <option value="kotlin.kotlin.ranges.hints" />
         <option value="kotlin.kotlin.references.types.hints" />
+        <option value="kotlin.kotlin.values.hints" />
         <option value="kotlin.microservices.url.path.inlay.hints" />
+        <option value="kotlin.spring.boot.generate.starters.gradle.kts" />
+        <option value="kotlin.spring.secured.urls.inlay.hints" />
       </set>
     </option>
     <option name="disabledLanguages">
@@ -100,12 +119,6 @@
           <option name="showRelatedProblems" value="false" />
         </JavaLensSettings>
       </JAVA.JavaLens>
-      <Groovy.groovy.parameters.hints>
-        <Settings>
-          <option name="showInferredParameterTypes" value="false" />
-          <option name="showTypeParameterList" value="false" />
-        </Settings>
-      </Groovy.groovy.parameters.hints>
       <JavaScript.js.type.hints>
         <Settings>
           <option name="showForInferredParameters" value="false" />
@@ -116,6 +129,17 @@
           <option name="showForInferredParameters" value="false" />
         </Settings>
       </TypeScript.ts.type.hints>
+      <Groovy.groovy.parameters.hints>
+        <Settings>
+          <option name="showInferredParameterTypes" value="false" />
+          <option name="showTypeParameterList" value="false" />
+        </Settings>
+      </Groovy.groovy.parameters.hints>
+      <kotlin.kotlin.values.hints>
+        <Settings>
+          <option name="ranges" value="false" />
+        </Settings>
+      </kotlin.kotlin.values.hints>
       <JAVA.annotation.hints>
         <Settings>
           <option name="showExternal" value="false" />
