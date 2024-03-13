@@ -10,8 +10,8 @@
     <option id="angular.show.names.for.pipes" value="false" />
     <option id="SHOW_LAMBDA_RETURN_EXPRESSION" value="false" />
     <disabledLanguages>
-      <language id="TypeScript" />
       <language id="JAVA" />
+      <language id="TypeScript" />
       <language id="Angular2Html" />
       <language id="Rust" />
       <language id="Scala" />
