@@ -172,6 +172,9 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </HSQLCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
+  </HTMLCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="SUBCLASS_NAME_SUFFIX" value="" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -488,6 +491,11 @@
   </codeStyleSettings>
   <codeStyleSettings language="HOCON">
     <option name="SPACE_WITHIN_BRACES" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
