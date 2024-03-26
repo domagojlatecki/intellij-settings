@@ -45,7 +45,7 @@
   <action id="Macro.Duplicate Line Up">
     <keyboard-shortcut first-keystroke="shift ctrl home" />
   </action>
-  <action id="Macro.OnSave">
+  <action id="Macro.OnSaveNew">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="MoveLineDown">

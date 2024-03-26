@@ -173,9 +173,11 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
-    <option name="HTML_ALIGN_TEXT" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+  </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="SUBCLASS_NAME_SUFFIX" value="" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
@@ -484,6 +486,9 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </SybaseCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
@@ -551,6 +556,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
