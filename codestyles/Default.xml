@@ -5,7 +5,7 @@
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
   </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="6">
+  <DB2CodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -43,7 +43,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="6">
+  <DerbyCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -96,7 +96,7 @@
       </value>
     </option>
   </GroovyCodeStyleSettings>
-  <H2CodeStyleSettings version="6">
+  <H2CodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -134,7 +134,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="6">
+  <HSQLCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -203,7 +203,7 @@
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="6">
+  <MSSQLCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -241,7 +241,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="6">
+  <MySQLCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -279,7 +279,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="6">
+  <OracleCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -317,7 +317,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </OracleCodeStyleSettings>
-  <PostgresCodeStyleSettings version="6">
+  <PostgresCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -358,7 +358,7 @@
   <Properties>
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
-  <SQLiteCodeStyleSettings version="6">
+  <SQLiteCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -412,7 +412,7 @@
     <option name="FORMATTER" value="1" />
     <option name="BLANK_LINES_AROUND_METHOD_IN_INNER_SCOPES" value="0" />
   </ScalaCodeStyleSettings>
-  <SqlCodeStyleSettings version="6">
+  <SqlCodeStyleSettings version="7">
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
     <option name="CUSTOM_TYPE_CASE" value="3" />
@@ -449,7 +449,7 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="6">
+  <SybaseCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
