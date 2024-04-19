@@ -167,8 +167,8 @@
     <jdk version="2">
       <name value="corretto-1.8" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_402&quot;" />
-      <homePath value="$USER_HOME$/.jdks/corretto-1.8.0_402" />
+      <version value="java version &quot;1.8.0_412&quot;" />
+      <homePath value="$USER_HOME$/.jdks/corretto-1.8.0_412" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -177,24 +177,24 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/charsets.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/cldrdata.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/dnsns.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/jaccess.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/jfxrt.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/localedata.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/nashorn.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/sunec.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/ext/zipfs.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/jce.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/jfr.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/jfxswt.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/jsse.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/management-agent.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/resources.jar!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -202,8 +202,8 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/src.zip!/" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_402/javafx-src.zip!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/src.zip!/" type="simple" />
+            <root url="jar://$USER_HOME$/.jdks/corretto-1.8.0_412/javafx-src.zip!/" type="simple" />
           </root>
         </sourcePath>
       </roots>
