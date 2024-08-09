@@ -731,19 +731,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="Scala Template lazy val/var">
-      <value>
-        <option name="FOREGROUND" value="78aafd" />
-      </value>
-    </option>
     <option name="Scala Template val">
       <value>
-        <option name="FOREGROUND" value="78aafd" />
-      </value>
-    </option>
-    <option name="Scala Template var">
-      <value>
-        <option name="FOREGROUND" value="78aafd" />
+        <option name="FOREGROUND" value="edbf8f" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="Scala Type Alias">
