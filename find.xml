@@ -23,6 +23,7 @@
     <mask>*kt</mask>
     <mask>*.sc*</mask>
     <mask>*.scala</mask>
+    <mask>*sql</mask>
     <mask>*scala</mask>
   </component>
 </application>
