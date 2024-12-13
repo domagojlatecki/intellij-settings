@@ -15,11 +15,6 @@
         <option name="enableRunToCursor" value="false" />
       </profile-during-debug>
     </option>
-    <option name="runToolbarWidgetOptions">
-      <run-toolbar-widget>
-        <option name="show" value="false" />
-      </run-toolbar-widget>
-    </option>
     <option name="threadListOptions">
       <thread-list>
         <option name="showMetrics">
