@@ -397,6 +397,11 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </SQLiteCodeStyleSettings>
   <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="com.nbcuas.dig.models.json.ReadsWritesEither._" />
+      </array>
+    </option>
     <option name="classCountToUseImportOnDemand" value="99" />
     <option name="importLayout">
       <array>
