@@ -1,6 +1,6 @@
 <application>
   <component name="ScalaSettings">
-    <option name="COMPILE_SERVER_SDK" value="21" />
+    <option name="COMPILE_SERVER_SDK" value="BSP_temurin-21-jdk-amd64" />
     <option name="COMPILE_SERVER_ID" value="6ff41b14-57aa-400f-8481-44eb7c078aee" />
   </component>
 </application>
