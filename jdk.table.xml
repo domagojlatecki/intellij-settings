@@ -1,7 +1,7 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="BSP_temurin-21-jdk-amd64" />
+      <name value="temurin-21" />
       <type value="JavaSDK" />
       <version value="Eclipse Temurin 21.0.7" />
       <homePath value="/usr/lib/jvm/temurin-21-jdk-amd64" />
