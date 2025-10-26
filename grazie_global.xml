@@ -5,6 +5,7 @@
         <option name="disabled">
           <set>
             <option value="ASTURIAN" />
+            <option value="BRETON" />
           </set>
         </option>
       </State>
