@@ -1,4 +1,22 @@
 <application>
+  <component name="ParadoxProfilesSettings">
+    <modDescriptorSettings path="$USER_HOME$/Projects/eu5-local-mod">
+      <settings>
+        <option name="gameType" value="Vic3" />
+        <option name="inferredGameType" value="Vic3" />
+        <option name="modDirectory" value="$USER_HOME$/Projects/eu5-local-mod" />
+        <option name="name" value="Local Tweaks" />
+        <option name="supportedVersion" value="1.0.*" />
+        <option name="version" value="1.0" />
+      </settings>
+    </modDescriptorSettings>
+    <modSettings path="$USER_HOME$/Projects/eu5-local-mod">
+      <settings>
+        <option name="gameType" value="Vic3" />
+        <option name="modDirectory" value="$USER_HOME$/Projects/eu5-local-mod" />
+      </settings>
+    </modSettings>
+  </component>
   <component name="ParadoxSettings">
     <option name="defaultGameDirectories">
       <map>
