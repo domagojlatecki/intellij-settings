@@ -13,6 +13,11 @@
     <modSettings path="$USER_HOME$/Projects/eu5-local-mod">
       <settings>
         <option name="gameType" value="Vic3" />
+        <modDependencies>
+          <settings>
+            <option name="modDirectory" value="$USER_HOME$/Projects/eu5-local-mod" />
+          </settings>
+        </modDependencies>
         <option name="modDirectory" value="$USER_HOME$/Projects/eu5-local-mod" />
       </settings>
     </modSettings>
