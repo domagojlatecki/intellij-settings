@@ -53,6 +53,19 @@
     <option name="defaultGameType" value="Eu4" />
   </component>
   <component name="PlsProfilesSettings">
+    <gameDescriptorSettings path="$USER_HOME$/.local/share/Steam/steamapps/common/Europa Universalis V">
+      <settings>
+        <option name="gameDirectory" value="$USER_HOME$/.local/share/Steam/steamapps/common/Europa Universalis V" />
+        <option name="gameType" value="Eu5" />
+        <option name="gameVersion" value="release/1.0.7" />
+      </settings>
+    </gameDescriptorSettings>
+    <gameSettings path="$USER_HOME$/.local/share/Steam/steamapps/common/Europa Universalis V">
+      <settings>
+        <option name="gameDirectory" value="$USER_HOME$/.local/share/Steam/steamapps/common/Europa Universalis V" />
+        <option name="gameType" value="Eu5" />
+      </settings>
+    </gameSettings>
     <modDescriptorSettings path="$USER_HOME$/Projects/eu5-local-mod">
       <settings>
         <option name="gameType" value="Eu5" />
@@ -68,5 +81,21 @@
         <option name="modDirectory" value="$USER_HOME$/Projects/eu5-local-mod" />
       </settings>
     </modSettings>
+  </component>
+  <component name="PlsSettings">
+    <option name="defaultGameDirectories">
+      <map>
+        <entry key="ck2" value="" />
+        <entry key="ck3" value="" />
+        <entry key="eu4" value="" />
+        <entry key="eu5" value="$USER_HOME$/.local/share/Steam/steamapps/common/Europa Universalis V" />
+        <entry key="hoi4" value="" />
+        <entry key="ir" value="" />
+        <entry key="stellaris" value="" />
+        <entry key="vic2" value="" />
+        <entry key="vic3" value="" />
+      </map>
+    </option>
+    <option name="defaultGameType" value="Eu5" />
   </component>
 </application>
