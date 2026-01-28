@@ -396,36 +396,6 @@
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </SQLiteCodeStyleSettings>
-  <ScalaCodeStyleSettings>
-    <option name="alwaysUsedImports">
-      <array>
-        <option value="com.nbcuas.dig.models.json.ReadsWritesEither._" />
-      </array>
-    </option>
-    <option name="classCountToUseImportOnDemand" value="99" />
-    <option name="importLayout">
-      <array>
-        <option value="java" />
-        <option value="all other imports" />
-        <option value="scala" />
-      </array>
-    </option>
-    <option name="sortAsScalastyle" value="true" />
-    <option name="sortImports" value="false" />
-    <option name="FINALLY_BRACE_FORCE" value="3" />
-    <option name="TRY_BRACE_FORCE" value="3" />
-    <option name="ALIGN_IF_ELSE" value="true" />
-    <option name="INDENT_FIRST_PARAMETER" value="false" />
-    <option name="FORMATTER" value="1" />
-    <option name="BLANK_LINES_AROUND_METHOD_IN_INNER_SCOPES" value="0" />
-    <option name="SPACES_IN_IMPORTS" value="true" />
-    <option name="TYPE_ANNOTATION_UNIT_TYPE" value="false" />
-    <option name="TRAILING_COMMA_MODE" value="TRAILING_COMMA_REMOVE_WHEN_MULTILINE" />
-    <option name="TRAILING_COMMA_TUPLE_ENABLED" value="true" />
-    <option name="TRAILING_COMMA_PATTERN_ARG_LIST_ENABLED" value="true" />
-    <option name="TRAILING_COMMA_TYPE_PARAMS_ENABLED" value="true" />
-    <option name="TRAILING_COMMA_IMPORT_SELECTOR_ENABLED" value="true" />
-  </ScalaCodeStyleSettings>
   <SqlCodeStyleSettings version="7">
     <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="BUILT_IN_CASE" value="0" />
