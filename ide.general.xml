@@ -12,7 +12,6 @@
     <entry key="ide.images.show.chessboard" value="true" source="SYSTEM" />
     <entry key="maven.packagesearch.enabled" value="false" source="MANAGER" />
     <entry key="switched.from.classic.to.islands" value="true" source="SYSTEM" />
-    <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
