@@ -3,49 +3,51 @@
     <extensionMap>
       <mapping pattern="LOCK" type="AUTO_DETECTED" />
       <mapping pattern="MANIFEST-000011" type="AUTO_DETECTED" />
-      <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="zinc" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="gamestate_debug" type="AUTO_DETECTED" />
       <mapping pattern="ipfs-version" type="AUTO_DETECTED" />
       <mapping pattern="example" type="AUTO_DETECTED" />
+      <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="database" type="AUTO_DETECTED" />
       <mapping pattern="geth-bootnodes" type="AUTO_DETECTED" />
       <mapping pattern="datastore_spec" type="AUTO_DETECTED" />
       <mapping pattern="start" type="AUTO_DETECTED" />
       <mapping pattern="clean" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
+      <mapping ext="conf" type="HOCON" />
       <mapping ext="abi" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="dummy" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="t1" type="PLAIN_TEXT" />
       <mapping pattern="t2" type="PLAIN_TEXT" />
       <mapping pattern="t3" type="PLAIN_TEXT" />
       <mapping pattern="t4" type="PLAIN_TEXT" />
       <mapping pattern="t5" type="PLAIN_TEXT" />
       <mapping pattern="t6" type="PLAIN_TEXT" />
-      <mapping pattern="BitUnpackerTests.scala" type="PLAIN_TEXT" />
       <mapping pattern="pcmSampleDecoders.scala" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="BitUnpackerTests.scala" type="PLAIN_TEXT" />
       <mapping ext="tfvars" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="hist" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="adoc" type="PLAIN_TEXT" />
       <mapping ext="spvchain" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="hist" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="raml" type="YAML" />
       <removed_mapping ext="abi" approved="true" type="JavaScript" />
       <removed_mapping ext="adoc" approved="true" type="AsciiDoc" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
