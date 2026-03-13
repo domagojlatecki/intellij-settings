@@ -397,7 +397,16 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </SQLiteCodeStyleSettings>
   <ScalaCodeStyleSettings>
+    <option name="classCountToUseImportOnDemand" value="999" />
+    <option name="importLayout">
+      <array>
+        <option value="base package imports" />
+        <option value="all other imports" />
+      </array>
+    </option>
+    <option name="sortAsScalastyle" value="true" />
     <option name="FORMATTER" value="1" />
+    <option name="SPACES_IN_IMPORTS" value="true" />
   </ScalaCodeStyleSettings>
   <SqlCodeStyleSettings version="7">
     <option name="CUSTOM_TYPE_CASE" value="0" />
