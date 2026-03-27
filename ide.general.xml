@@ -10,7 +10,6 @@
     <entry key="scala.erase.compiler.process.jdk.once" value="false" source="SYSTEM" />
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="ide.images.show.chessboard" value="true" source="SYSTEM" />
-    <entry key="maven.packagesearch.enabled" value="false" source="MANAGER" />
     <entry key="switched.from.classic.to.islands" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
