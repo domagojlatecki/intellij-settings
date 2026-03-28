@@ -486,7 +486,13 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
-    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Implicit conversion">
+      <value>
+        <option name="FOREGROUND" value="fdfdfd" />
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="Interpolated String Injection">
       <value>
         <option name="FONT_TYPE" value="1" />
