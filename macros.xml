@@ -4,12 +4,11 @@
       <action id="EditorDuplicate" />
       <action id="MoveLineUp" />
     </macro>
-    <macro name="OnSave">
-      <action id="OptimizeImports" />
+    <macro name="OnSaveNoImports">
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
-    <macro name="OnSaveNew">
+    <macro name="OnSaveImports">
       <action id="OptimizeImports" />
       <action id="ReformatCode" />
       <action id="SaveAll" />

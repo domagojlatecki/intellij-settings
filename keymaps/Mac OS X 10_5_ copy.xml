@@ -105,7 +105,7 @@
   <action id="Macro.Duplicate Line Up">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
-  <action id="Macro.OnSaveNew">
+  <action id="Macro.OnSaveImports">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="MoveLineDown">

@@ -405,6 +405,8 @@
       </array>
     </option>
     <option name="sortAsScalastyle" value="true" />
+    <option name="sortImports" value="false" />
+    <option name="SCALAFMT_USE_INTELLIJ_FORMATTER_FOR_RANGE_FORMAT" value="false" />
     <option name="FORMATTER" value="1" />
     <option name="SPACES_IN_IMPORTS" value="true" />
   </ScalaCodeStyleSettings>
