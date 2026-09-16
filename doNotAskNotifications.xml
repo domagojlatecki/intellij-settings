@@ -1,0 +1,9 @@
+<application>
+  <component name="DoNotAskAppManager">
+    <option name="idToDisplayName">
+      <map>
+        <entry key="play2" value="Play 2" />
+      </map>
+    </option>
+  </component>
+</application>
