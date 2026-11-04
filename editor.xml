@@ -227,6 +227,7 @@
     <pattern pattern="\bTODO\b.*" />
     <pattern icon="important" case-sensitive="true" pattern="\bFIXME\b.*" />
     <pattern icon="question" case-sensitive="true" pattern="\bNYI\b.*" />
+    <pattern icon="default" case-sensitive="true" pattern="\bNOTE\b.*" />
     <filter name="NYI">
       <pattern index="2" />
     </filter>
